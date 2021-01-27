@@ -1,0 +1,5 @@
+#				Game name				Page URL				Page Status				Tournament count
+1				Garena Free Fire Tournaments				https://www.game.tv/find-tournaments/garena-free-fire-spooky-night-tournaments				200				312,697
+2				Brawl Stars Tournaments				https://www.game.tv/find-tournaments/brawl-stars-tournaments				200				83,085
+3				Clash Royale Tournaments				https://www.game.tv/find-tournaments/clash-royale-tournaments				200				11,891
+4				PUBG MOBILE Tournaments				https://www.game.tv/find-tournaments/pubg-mobile-tournaments				200				17,844
